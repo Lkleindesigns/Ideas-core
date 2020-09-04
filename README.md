@@ -10,4 +10,9 @@
 * Post route to create user
 * Get routes for retrieving user data (all users and user by id)
 * Logger, requestLogger, unknownEndpoint, and errorHandler middleware
+
+## Routes
 * Refactor application into app folder architecture
+* Initial validations for Users and Ideas
+* Update and delete routes for Users and Ideas
+* Break routes into controllers using express router
